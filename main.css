@@ -1,8 +1,14 @@
 body {
-    width: 89%;
+    width: auto;
     text-align: center;
 }
+
+div.container {
+    background-color: blueviolet;
+}
+
 h1 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 1200%;
+    font-family: 'Inconsolata', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 180%;
+    color: wheat;
 }
