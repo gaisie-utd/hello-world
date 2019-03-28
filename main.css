@@ -4,11 +4,11 @@ body {
 }
 
 div.container {
-    background-color: blueviolet;
+    background-color: rgb(211, 196, 164);
 }
 
 h1 {
     font-family: 'Inconsolata', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 180%;
-    color: wheat;
+    color: rgb(0, 0, 0);
 }
